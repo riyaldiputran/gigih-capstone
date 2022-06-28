@@ -6,6 +6,9 @@ module.exports = {
     './src/layout/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
+    fontFamily:{
+      
+    },
     extend: {},
   },
   plugins: [],
